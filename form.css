@@ -1,0 +1,38 @@
+.formulario{
+	width: 30%;
+	height: 30%;
+	background-color: gray;
+	align-self: center;
+	margin-top: 2%;
+	margin-left: 6%;
+}
+.janela{
+	width: 30%;
+	height: 30%;
+	margin-top: 1%;
+	background-color: red;
+	margin-left: 6%;
+}
+.tabela{
+	background-color: #D90000;
+}
+.entrada{
+	background-color: blue;
+	width: 20%;
+	height: 20%;
+}
+.botao{
+  background-color: #D90000; /* red*/
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 75%;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 12px 50px 0 rgba(0,0,0,0.19);
+}
